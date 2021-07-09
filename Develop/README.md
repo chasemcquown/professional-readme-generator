@@ -1,34 +1,45 @@
-# README Generator
 
-## Description
+  # README Generator 
+  [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)]
 
-This application will generate a README.md file upon completion of prompts.
+  ## Description 
 
-## Table of Contents
+  This app will produce a README.md file upon completion of the command line prompts. 
 
-- [Installation](#installation)
-- [Usage](#usage)
-- [Credits](#credits)
-- [License](#license)
+  ## Table of Contents 
 
-## Installation
+  * [Installation](#installation)
+  * [Usage](#usage)
+  * [Credits](#credits)
+  * [License](#license)
 
-Clone this repo.
+  ## Installation
 
-## Usage
+  Clone this repo. 
 
-Follow the command line prompts.
+  ## Usage 
 
-## Credits
+  Follow the command line prompts. 
+  
+  ## Credits
 
-Chase McQuown
+  Chase McQuown  
 
-## License
+  ## License
 
-Licensed under the MIT
+  Licensed under the MIT license. 
 
-## Contributing
+  ## Contributing
 
-Contributors: Chase McQuown  
- GitHub: https://github.com/chasemcquown
-Email: cpmcquown@gmail.com
+  Contributors: Chase McQuown  
+
+  ## Tests
+
+  Test Examples:
+
+  ## Questions
+
+  Any questions? You can reach me at GitHub: https://github.com/chasemcquown  or Email: cpmcquown@gmail.com
+
+
+  

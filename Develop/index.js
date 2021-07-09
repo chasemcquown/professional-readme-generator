@@ -27,12 +27,6 @@ const questions = [
 
     },
     {
-        name: 'year',
-        type: 'list',
-        message: 'Please select the current year',
-        choices: ['2021', '2022', '2023', '2024', '2025']
-    },
-    {
         name: 'title',
         type: 'input',
         message: 'What is the name of your project?'
@@ -56,6 +50,11 @@ const questions = [
         name: 'credits',
         type: 'input',
         message: 'List the the collaborators of this project, if applicable:'
+    },
+    {
+        name: 'tests',
+        type: 'input',
+        message: 'Any tests? Please provide examples on how to run them:'
     },
     {
         name: 'license',
