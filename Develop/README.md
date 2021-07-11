@@ -1,10 +1,10 @@
 
-  # README Generator 
+  # README Generator
   [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)]
 
   ## Description 
 
-  This app will produce a README.md file upon completion of the command line prompts. 
+  This application will produce a README.md file upon the completion of the command line prompts. 
 
   ## Table of Contents 
 
@@ -35,7 +35,7 @@
 
   ## Tests
 
-  Test Examples:
+  Test Examples: use node 
 
   ## Questions
 
